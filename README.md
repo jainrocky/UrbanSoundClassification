@@ -1,7 +1,5 @@
 # UrbanSoundClassification
 
-## Download DataSet
-[download](https://goo.gl/8hY5ER)
 
 ![Slide 1](UrbanSoundClassificationSlides/Slide1.jpg)
 ![Slide 2](UrbanSoundClassificationSlides/Slide2.jpg)
@@ -13,3 +11,11 @@
 ![Slide 8](UrbanSoundClassificationSlides/Slide8.jpg)
 ![Slide 9](UrbanSoundClassificationSlides/Slide9.jpg)
 ![Slide 10](UrbanSoundClassificationSlides/Slide10.jpg)
+
+## How to use?
+- Fork -> Clone, then
+- Download dataset from [here](https://goo.gl/8hY5ER).
+- Add audio folder(dataset's) to this folder.
+ 
+
+
