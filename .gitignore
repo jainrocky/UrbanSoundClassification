@@ -1,3 +1,8 @@
 __pycache__/
 image_data/
 audio/
+.ipynb_checkpoints/
+.DS_Store
+FREESOUNDCREDITS.txt
+UNSUCCESSFUL_LOAD.txt
+UrbanSound8K_README.txt
